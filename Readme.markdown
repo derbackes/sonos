@@ -1,5 +1,7 @@
 # Sonos
 
+(This is an update to get the Sonos and Hue to play nicely in the same network. Otherwise there are times when the Hue will reply to the multicast and then the gem fails)
+
 Control [Sonos](https://refer.sonos.com/raf/invite?code=k8k8mq9hg) speakers with Ruby.
 
 Huge thanks to [Rahim Sonawalla](https://github.com/rahims) for making [SoCo](https://github.com/rahims/SoCo). This gem would not be possible without his work.
